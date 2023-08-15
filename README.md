@@ -1,4 +1,4 @@
-[![MasterHead]("https://www.canva.com/design/DAFrlWl3hvs/jue36bAvouJwYKwSq_jtTA/edit?utm_content=DAFrlWl3hvs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton")](https://snehalsg-portfolio.netlify.app)
+[![MasterHead]("https://media.licdn.com/dms/image/D4D16AQG0qmOmmDCIbQ/profile-displaybackgroundimage-shrink_350_1400/0/1692083201198?e=1697673600&v=beta&t=QScVg0OjQnumWmBZrHFA1rr8MMHWGlhhwLtMsRm_NwU")](https://snehalsg-portfolio.netlify.app)
 <h1 align="center">Hi 👋,I'm Snehal Ghanekar </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"
