@@ -1,17 +1,17 @@
-[![MasterHead]("https://media.licdn.com/dms/image/D4D16AQG0qmOmmDCIbQ/profile-displaybackgroundimage-shrink_350_1400/0/1692083201198?e=1697673600&v=beta&t=QScVg0OjQnumWmBZrHFA1rr8MMHWGlhhwLtMsRm_NwU")](https://snehalsg-portfolio.netlify.app)
+[![MasterHead]("https://media.licdn.com/dms/image/D4D16AQG0qmOmmDCIbQ/profile-displaybackgroundimage-shrink_350_1400/0/1692083201198?e=1697673600&v=beta&t=QScVg0OjQnumWmBZrHFA1rr8MMHWGlhhwLtMsRm_NwU")](https://64db0b66cb9ad626f7bf8df7--charming-cucurucho-60604b.netlify.app/)
 <h1 align="center">Hi 👋,I'm Snehal Ghanekar </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehal1704&label=Profile%20views&color=0e75b6&style=flat" alt="snehal1704" /> </p>
 
-- 🔭 I’m currently working on **Track Back**
+- 🔭 I’m currently working on **Javascript Project**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **Front End Development**
 
-- 👨‍💻 All of my projects are available at [https://snehalsg-portfolio.netlify.app/](https://snehalsg-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://64db0b66cb9ad626f7bf8df7--charming-cucurucho-60604b.netlify.app/](https://64db0b66cb9ad626f7bf8df7--charming-cucurucho-60604b.netlify.app/)
 
 - 💬 Ask me about **Java,C#,Frameworks**
 
