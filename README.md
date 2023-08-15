@@ -1,4 +1,4 @@
-[![MasterHead]("Snehal Ghanekar.png")](https://64db0b66cb9ad626f7bf8df7--charming-cucurucho-60604b.netlify.app/)
+[![MasterHead]("https://github.com/Snehal1704/Snehal1704/blob/main/Snehal%20Ghanekar.png")](https://64db0b66cb9ad626f7bf8df7--charming-cucurucho-60604b.netlify.app/)
 <h1 align="center">Hi 👋,I'm Snehal Ghanekar </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"
@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Front End Development**
 
-- 👨‍💻 All of my projects are available at [https://64db0b66cb9ad626f7bf8df7--charming-cucurucho-60604b.netlify.app/](https://64db0b66cb9ad626f7bf8df7--charming-cucurucho-60604b.netlify.app/)
+- 👨‍💻 All of my projects are available at [orig-personal-portfolio.netlify.app](orig-personal-portfolio.netlify.app)
 
-- 💬 Ask me about **Java,C#,Frameworks**
+- 💬 Ask me about **MySql,Java,C#,Frameworks**
 
 - 📫 How to reach me **snehalghanekar35@gmail.com**
 
