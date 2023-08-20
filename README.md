@@ -1,4 +1,5 @@
-[![MasterHead]("https://media.licdn.com/dms/image/D4D16AQEnLvc1wYOZwg/profile-displaybackgroundimage-shrink_350_1400/0/1692518060469?e=1698278400&v=beta&t=jr8wUhLMiWBwWghegHhJSXZspywBV-v_c07xNGb9EJs")](orig-personal-portfolio.netlify.app)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHNzf3aFpgs8w/profile-displaybackgroundimage-shrink_350_1400/0/1687761036522?e=1693440000&v=beta&t=F3stGoPO6qwMGCJLgj7W1AVvgRs3tXsZic3UBY-FyX8)](https://akash-portfoli-o.netlify.app)
+<h1 align="center">Hi 👋, I'm Akash Patil</h1>
 <h1 align="center">Hi 👋,I'm Snehal Ghanekar </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"
