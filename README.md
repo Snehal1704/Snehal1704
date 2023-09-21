@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Snehal1704/Snehal1704/blob/main/Snehal%20Ghanekar%20(2).png?raw=true)](https://orig-personal-portfolio.netlify.app)
+[![MasterHead](https://github.com/Snehal1704/Snehal1704/blob/main/Snehal%20Ghanekar%20(3).png?raw=true)](https://orig-personal-portfolio.netlify.app)
 <h1 align="center">Hi 👋,I'm Snehal Ghanekar </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"
