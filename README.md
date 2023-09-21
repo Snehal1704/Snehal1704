@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Javascript Project**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React js**
 
 - 👯 I’m looking to collaborate on **Front End Development**
 
