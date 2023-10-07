@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MySql,Java,C#,Frameworks**
 
-- 📫 How to reach me **snehalghanekar35@gmail.com**
+- 📫 How to reach me **saghanekar07@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/snehal-ghanekar-560277281](https://www.linkedin.com/in/snehal-ghanekar-560277281)
 
