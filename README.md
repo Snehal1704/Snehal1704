@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on **Front End Development**
+- 👯 I’m looking to collaborate on **Frontend Development**
 
 - 👨‍💻 All of my projects are available at [https://snehalsg-portfolio.netlify.app/](https://snehalsg-portfolio.netlify.app/)
 
